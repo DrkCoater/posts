@@ -1,1 +1,3 @@
-#posts
+#### Artificial intelligence Concepts
+
+> supervised learning
