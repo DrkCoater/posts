@@ -71,7 +71,7 @@
 
 下面我们使用代码，定义一个简单的范畴。
 
-```javascript
+```
 class Category {
   constructor(val) { 
     this.val = val; 
